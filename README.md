@@ -10,7 +10,7 @@ make a greeting card using JS and HTML
 
 ## Compiling and Using
 
-Go to this link:
+Go to this link: https://timberlinecs.github.io/project-1-greeting-card-OrBruchim/
 Press play to hear da music
 
 ## Discussion
